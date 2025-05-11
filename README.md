@@ -1,7 +1,7 @@
 # Laboratory task 12
 It's simple application, which shows simple features of Vue Framework and Pinia.
 
-Builded with **Pinia** and **Vue 3 (Composition API)**
+Built with **Pinia** and **Vue 3 (Composition API)**
 
 ## Recommended IDE Setup
 
